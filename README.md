@@ -17,7 +17,7 @@ Application mobile de gestion scolaire développée avec **Flutter** et **Fireba
 
 ##  Installation
 ```bash
-git clone [url]
+git clone https://github.com/SimonNguema/EduApp.git
 cd edu_app
 flutter pub get
 flutter run
